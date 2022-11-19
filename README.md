@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, JavaScript & CSS**
 
-- 📫 How to reach me **mohitvaswani@gmail.com**
+- 📫 How to reach me **mohitvaswani010@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VGrMIoANOY6xz9LHhAT4rlI4uJYdo9L3/view](https://drive.google.com/file/d/1VGrMIoANOY6xz9LHhAT4rlI4uJYdo9L3/view)
 
