@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mohitvaswani010@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VGrMIoANOY6xz9LHhAT4rlI4uJYdo9L3/view](https://drive.google.com/file/d/1VGrMIoANOY6xz9LHhAT4rlI4uJYdo9L3/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VGrMIoANOY6xz9LHhAT4rlI4uJYdo9L3/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
