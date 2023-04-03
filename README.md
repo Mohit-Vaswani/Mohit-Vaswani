@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [Mohit.World](http://mohit.world/)
 
-- 🌱 I’m currently learning **NextJs, TypeScript & Web3**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- ⚒️ I’m currently Building with **NextJs, TypeScript & Web3**
 
 - 👨‍💻 All of my projects are available at [http://mohitvaswani.netlify.com/](http://mohitvaswani.netlify.com/)
 
-- 💬 Ask me about **React, JavaScript & CSS**
+- 💬 Ask me about **NextJs, React, JavaScript & CSS**
 
 - 📫 How to reach me **mohitvaswani010@gmail.com**
 
