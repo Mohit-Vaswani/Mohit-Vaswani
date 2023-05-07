@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://mohitvaswani.netlify.com/](http://mohitvaswani.netlify.com/)
 
-- 💬 Ask me about **NextJs, React, JavaScript & CSS**
+- 💬 Ask me about **NextJs, React, TypeScript & CSS**
 
 - 📫 How to reach me **mohitvaswani010@gmail.com**
 
