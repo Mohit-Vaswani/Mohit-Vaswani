@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mohit.World](http://mohit.world/)
 
-- ⚒️ I’m currently Building with **NextJs, TypeScript & Web3**
+- ⚒️ I’m currently Building with **NextJs & TypeScript**
 
 - 👨‍💻 All of my projects are available at [http://mohitvaswani.netlify.com/](http://mohitvaswani.netlify.com/)
 
