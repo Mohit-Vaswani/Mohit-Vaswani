@@ -5,7 +5,7 @@
 
 - ⚒️ I’m currently Building with **NextJs & TypeScript**
 
-- 👨‍💻 All of my projects are available at [http://mohitvaswani.netlify.com/](http://mohitvaswani.netlify.com/)
+- 👨‍💻 All of my projects are available at [http://mohitfrontend.netlify.com/](http://mohitfrontend.netlify.com/)
 
 - 💬 Ask me about **NextJs, React, TypeScript & CSS**
 
