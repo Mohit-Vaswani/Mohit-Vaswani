@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Vaswani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Mohit.World](http://mohit.world/)
+- 🔭 I’m currently working on [Mohit.World](https://buddha-mode.vercel.app/)
 
 - ⚒️ I’m currently Building with **NextJs & TypeScript**
 
