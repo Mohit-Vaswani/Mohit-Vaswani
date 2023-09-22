@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VGrMIoANOY6xz9LHhAT4rlI4uJYdo9L3/view)
 
-- 🐱 I have a little cute cat named Smily.
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-vaswani&" alt="mohit-vaswani" /></p>
 
 <h3 align="left">Connect with me:</h3>
