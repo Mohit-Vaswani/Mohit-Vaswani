@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Vaswani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Time-Logging-App](https://time-logger-app.vercel.app/)
+- 🔭 I’m currently working on [1000 Artworks](https://1000artworks.com/)
 
 - ⚒️ I’m currently Building with **NextJs & TypeScript**
 
