@@ -8,20 +8,6 @@
 <br/><a href="https://www.linkedin.com/in/mohit-vaswani-10/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:mohitvaswani010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
-- 🔭 I’m currently working on [1000 Artworks](https://1000artworks.com/)
-
-- ⚒️ I’m currently Building with **NextJs & TypeScript**
-
-- 👨‍💻 All of my projects are available at [mohit.world](http://mohit.world/)
-
-- 💬 Ask me about **NextJs, React, TypeScript & CSS**
-
-- 📫 How to reach me **mohitvaswani010@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VGrMIoANOY6xz9LHhAT4rlI4uJYdo9L3/view)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-vaswani&" alt="mohit-vaswani" /></p>
-
 # 🔧 Technologies & Tools
 
 <table>
