@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Vaswani</h1>
-<h3 align="center">A passionate Front-end developer from India</h3>
+<h3 align="center">A Passionate Front-end developer from India</h3>
 
 <div align="justify">
     My name is Mohit and I'm a Frontend Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies that I can leverage to solve real-life problems.
