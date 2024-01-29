@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Front-end developer from India</h3>
 
 <div align="justify">
-    My name is Mohit and I'm a Frontend Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies that I can leverage to solve real-life problems.
+    My Name is Mohit and I'm a Frontend Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies that I can leverage to solve real-life problems.
 </div>
 
 <br/><a href="https://www.linkedin.com/in/mohit-vaswani-10/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
